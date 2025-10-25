@@ -1,27 +1,127 @@
-# 💫 About Me:
-🔭 Currently working on Building an AI-powered educational assistant integrating specialized LLMs, RAG, and AI agents to personalize learning experiences.<br><br>🤝 Looking to collaborate on AI projects, AI/NLP research, and open-source contributions in AI.<br><br>🌱 Currently learning Advanced LLM fine-tuning, Retrieval-Augmented Generation (RAG), and autonomous AI agent systems.<br><br>💬 Ask me about AI, NLP, Machine Learning, Salesforce integrations, and Data Science best practices.<br><br>⚡ Fun fact I earned 140+ Salesforce badges and 11 Superbadges, and I still get excited every time a model hits >95% accuracy!<br><br>🌍 Languages I speak: Python, SQL, Java and a bit of JavaScript (plus French, English, and Arabic 🗣️).
+<!-- 
+✨ Mohannad Tazi | Generative AI & Autonomous Systems Engineer
+Building RAG-powered applications, AI agents, and scalable GenAI solutions.
+-->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohannad_tazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohannad-tazi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohannadtazi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohannad___tazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohannadtazi.ai@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohannadtazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohannadtazi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadtazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohannadtazi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohannadtazi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa503-270e-4c90-b791-2c7c2d5a4e12.gif" width="100" alt="AI animation" />
+  <h1>Hi 👋, I'm Mohannad Tazi</h1>
+  <h3>Generative AI Engineer crafting RAG systems, autonomous AI agents & intelligent applications 🤖✨</h3>
+  <p>From prompt engineering to agentic workflows — I build GenAI that <em>reasons, retrieves, and acts</em>.</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohannadtazi&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+- 🔭 **Currently building**:  
+  → **RAG pipelines** with dynamic retrieval & query rewriting  
+  → **Autonomous AI agents** for task decomposition & tool use  
+  → **Domain-specialized LLMs** via fine-tuning & quantization  
+  → **Multimodal GenAI apps** (text + vision + structured data)
+- 🌐 **Domains I’ve shipped in**: Education, sales intelligence, document AI, predictive analytics, and conversational systems.
+- 🤝 **Open to collaborate** on **open-source GenAI tools**, **agent frameworks**, or **production RAG systems**.
+- 🌱 **Deepening my expertise** in:  
+  → **Advanced RAG** (hybrid search, re-ranking, self-query)  
+  → **AI Agent architectures** (ReAct, Plan-and-Execute, Toolformer)  
+  → **Efficient LLM inference** (vLLM, GGUF, ONNX)
+- 💬 **Ask me about**:  
+  **Generative AI** • **RAG optimization** • **AI Agents** • **LLM fine-tuning**  
+  **MLOps for LLMs** • **Salesforce + AI** • **End-to-end ML systems**
+- ⚡ **Fun fact**: Earned **140+ Salesforce badges** and **11 Superbadges**—yet still geek out when an agent **solves a task autonomously**!
+- 🌍 **Languages I speak**:  
+  - *Code*: Python, SQL, Java, JavaScript, C/C++  
+  - *Human*: French 🇫🇷, English 🇬🇧, Arabic 🇸🇦
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohannad-tazi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohannadtazi)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohannad___tazi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohannad_tazi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohannadtazi.ai@gmail.com)
+
+---
+
+### 💻 Tech Stack — Generative AI & Beyond
+
+#### 🧠 Generative AI & LLMs
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%23191919.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23F25022.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-%2300A67E.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%234B3E4D.svg?style=for-the-badge&logo=ollama&logoColor=white)
+
+#### 🔍 RAG & Vector Intelligence
+![FAISS](https://img.shields.io/badge/FAISS-%23282828.svg?style=for-the-badge&logo=facebook&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%230D927A.svg?style=for-the-badge&logo=pinecone&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-%23FF5733.svg?style=for-the-badge&logo=chroma&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-%2300C7B7.svg?style=for-the-badge&logo=weaviate&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### 🤖 AI Agents & Orchestration
+![LangGraph](https://img.shields.io/badge/LangGraph-%23191919.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23000000.svg?style=for-the-badge&logo=crewai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![LlamaIndex Agents](https://img.shields.io/badge/LlamaIndex%20Agents-%23F25022.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
+
+#### 📊 Core ML & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTwitch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### ☁️ MLOps & Deployment
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### 💼 Enterprise & Integration
+![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohannadtazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadtazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohannadtazi&theme=tokyonight&hide_border=false" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohannadtazi&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+### 🔝 Top Contributed Repos
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mohannadtazi&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mohannadtazi&icon=1&color=4" alt="Profile views" />
+  <br/>
+  <sub><em>Made with ❤️ | Building GenAI that doesn’t just talk — it <strong>thinks, retrieves, and acts</strong>.</em></sub>
+</div>
